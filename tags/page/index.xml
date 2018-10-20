@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Page on Nick G-Giordano</title>
+    <link>NickGGiordano.github.io/NickGGiordano.github.io/tags/page/</link>
+    <description>Recent content in Page on Nick G-Giordano</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 10 Sep 2018 19:04:46 +0200</lastBuildDate>
+    
+	<atom:link href="NickGGiordano.github.io/NickGGiordano.github.io/tags/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>NickGGiordano.github.io/NickGGiordano.github.io/about/</link>
+      <pubDate>Mon, 10 Sep 2018 19:04:46 +0200</pubDate>
+      
+      <guid>NickGGiordano.github.io/NickGGiordano.github.io/about/</guid>
+      <description>I am a solution architect with over 20 years of experience in large software design and development. I have a graduate diploma in software engineering.
+I have worked on many large companies (banks, insurance companies, telecoms, etc.) both as a consultant and as a regular employe.
+I specialize in complex system design, transactional systems, data modeling and Java &amp;amp; Angular software design.
+During the last few years, I had the chance to work as a solutions architect on major projects, to optimize development processes, participate in the implantation of practices to improve quality (unit testing, code review, design review) and to train and mentor developers.</description>
+    </item>
+    
+  </channel>
+</rss>
