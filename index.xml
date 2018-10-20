@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nick G-Giordano</title>
+    <link>/</link>
+    <description>Recent content on Nick G-Giordano</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 19 Oct 2018 20:30:00 +0200</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Not yet...</title>
+      <link>/posts/actual/</link>
+      <pubDate>Fri, 19 Oct 2018 20:30:00 +0200</pubDate>
+      
+      <guid>/posts/actual/</guid>
+      <description>In construction There is no content yet. Comme back soo to check.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 10 Sep 2018 19:04:46 +0200</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I am a solution architect with over 20 years of experience in large software design and development. I have a graduate diploma in software engineering.
+I have worked on many large companies (banks, insurance companies, telecoms, etc.) both as a consultant and as a regular employe.
+I specialize in complex system design, transactional systems, data modeling and Java &amp;amp; Angular software design.
+During the last few years, I had the chance to work as a solutions architect on major projects, to optimize development processes, participate in the implantation of practices to improve quality (unit testing, code review, design review) and to train and mentor developers.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>The best way to contact me is via LinkedIn</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description> Portfolio Demo  Coder Portfolio This theme is created based on hugo-coder.
+I made it possible to tell yourself more by my change.
+   </description>
+    </item>
+    
+  </channel>
+</rss>

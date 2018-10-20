@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Page on Nick G-Giordano</title>
+    <link>/fr/tags/page/</link>
+    <description>Recent content in Page on Nick G-Giordano</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 10 Sep 2018 19:04:46 +0200</lastBuildDate>
+    
+	<atom:link href="/fr/tags/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>À propos</title>
+      <link>/fr/about/</link>
+      <pubDate>Mon, 10 Sep 2018 19:04:46 +0200</pubDate>
+      
+      <guid>/fr/about/</guid>
+      <description>Je suis un architecte de solution avec 20 années d&amp;rsquo;expérience en conception et développement de systèmes d&amp;rsquo;envergure. Je suis titulaire d’un D.E.S.S en génie logiciel.
+J&amp;rsquo;ai travailler dans plusieurs grandes entraprise (banques, compagnies d&amp;rsquo;assurances, télécom, etc.) en tant que consultant, mais aussi en tant qu&amp;rsquo;employé régulier (permanent).
+Je me spécialise dans l&amp;rsquo;architecture de solutions complexes intégrant plusieurs applications, les systèmes transactionnels, la modélisation de données et la conception d&amp;rsquo;application Java et Angular/Node.</description>
+    </item>
+    
+  </channel>
+</rss>
