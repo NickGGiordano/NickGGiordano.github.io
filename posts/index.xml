@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Nick G-Giordano</title>
+    <link>NickGGiordano.github.io/posts/</link>
+    <description>Recent content in Posts on Nick G-Giordano</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 19 Oct 2018 20:30:00 +0200</lastBuildDate>
+    
+	<atom:link href="NickGGiordano.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Not yet...</title>
+      <link>NickGGiordano.github.io/posts/actual/</link>
+      <pubDate>Fri, 19 Oct 2018 20:30:00 +0200</pubDate>
+      
+      <guid>NickGGiordano.github.io/posts/actual/</guid>
+      <description>In construction There is no content yet. Comme back soo to check.</description>
+    </item>
+    
+  </channel>
+</rss>
