@@ -1,0 +1,141 @@
+baseURL = "http://example.org/"
+#languageCode = "en-us"
+title = "Nick G-Giordano"
+theme = "hugo-coder-portfolio"
+
+baseurl = "http://www.example.com" # Hostname (and path) to the root.
+#title = "Yusuke Ishimi" # Site title.
+#theme = "coder-portfolio" # Set the theme.
+languagecode = "en" # The site’s language code used to generate RSS.
+defaultcontentlanguage = "en" # The default content language.
+
+paginate = 20 # Default number of pages per page in pagination.
+
+pygmentsstyle = "b2" # Color-theme or style for syntax highlighting.
+pygmentscodefences = true # Enable code fence background highlighting.
+pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
+pygmentsUseClasses = true # new add
+
+disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
+
+[params] # theme parameters
+    author = "Nick G-Giordano" # Author's name.
+    info = "WEB AND APPS ENGINEER" # Author's job title or info.
+    description = "Nick G-Giordano's personal website" # Site description.
+    keywords = "blog,developer,personal" # Site keywords.
+    avatarurl = "images/avatar.jpg" # Contain the path of the optionnal avatar in the static folder.
+
+    #footercontent = "Thanks for visiting." # Add footer content
+    #fixedbarContent = "Do you want to know me more private?→" # Add fixedbar content
+    #fixedbarContentAfter = "Thank You! Please share it if you like it→" # Add fixedbar content after click
+
+    # Whether you want to hide copyright and credits in the footer.
+    hideCredits = true
+    hideCopyright = true
+
+    # Custom CSS
+    custom_css = []
+
+    # Alignment of Mobile Menu items
+    itemscentered = true
+
+    # RTL support
+    rtl = false
+
+    snsShare = false # new add
+
+    thumbnail = "images/tn.png" # default sns thumbnail
+
+    # Multilanguage mode
+    langseparator = "|" # Separates menus from language selectors when site is multilingual.
+
+# Social links
+[[params.social]]
+    name = "Github"
+    weight = 1
+    url = "https://github.com/NickGGiordano/"
+#[[params.social]]
+#    name = "Twitter"
+#    weight = 2
+#    url = "https://twitter.com/naro143/"
+[[params.social]]
+    name = "LinkedIn"
+    weight = 3
+    url = "https://www.linkedin.com/in/nick-g-giordano/"
+
+# Menu links
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "posts"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "about"
+
+[languages]
+    [languages.en]
+        languagename = "English" # The language name to be displayed in the selector.
+        title = "Nick G-Giordano"
+
+        # You can configure the theme parameter for each language. 
+        [languages.en.params]
+        author = "Nick G-Giordano"
+        info = "SOLUTION ARCHITECT, developer"
+        description = "Nick G-Giordano's personal website"
+        keywords = "blog,developer,personal,architect"
+
+        [languages.en.menu] # It is possible to change the menu too.
+
+        [[languages.en.menu.main]]
+        name = "About"
+        weight = 1.0
+        url = "about"
+
+        [[languages.en.menu.main]]
+        name = "Blog"
+        weight = 2.0
+        url = "posts"
+
+        [[languages.en.menu.main]]
+        name = "Contact"
+        weight = 3.0
+        url = "contact"
+
+        #[[languages.en.menu.main]]
+        #name = "Projects"
+        #weight = 4.0
+        #url = "projects"
+
+
+    [languages.fr]
+        languagename = "Français/French"
+        title = "Nick G-Giordano"
+
+        [languages.fr.params]
+            author = "Nick G-Giordano"
+            description = "Le site personnel de Nick G-Giordano"
+            keywords = "blog,developer,personnel,architecture"
+            info = "ARCHITECTE DE SOLUTION, DÉVELOPPEUR"
+
+        [languages.fr.menu]
+
+            [[languages.fr.menu.main]]
+            name = "À propos"
+            weight = 1.0
+            url = "fr/about"
+
+            [[languages.fr.menu.main]]
+            name = "Blog"
+            weight = 2.0
+            url = "fr/posts"
+
+            [[languages.fr.menu.main]]
+            name = "Contact"
+            weight = 3.0
+            url = "fr/contact"
+
+            #[[languages.fr.menu.main]]
+            #name = "Projects"
+            #weight = 4.0
+            #url = "fr/projects"
